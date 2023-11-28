@@ -55,7 +55,8 @@ admin.site.register(Student,StudentAdmin)
 
 
 ## OUTPUT
-![Alt text](output.jpg)
+![output](https://github.com/ILAIYADEEPAN/django-orm-app/assets/147473334/a6afff5a-9880-457c-b0a1-6df3cba6329e)
+
 
 
 ## RESULT
